@@ -1,0 +1,38 @@
+intro to python
+	https://en.wikipedia.org/wiki/Python_(programming_language)
+	https://www.python.org/about/
+	https://docs.python.org/3/
+* python 01 numbers & variables.pdf
+01 magic_trick_starter
+* python 02 strings & variables pdf
+02 string basics
+* python 03 string methods pdf
+03 string and builtins
+04 shopping cart
+05 press release
+* python 04 boolean and comparisons
+* python 05 controol flow
+06 conditionals
+07 tweet checker
+08 conditionals part 2
+09 bmi exercise
+* python 04 boolean and comparisons
+10 logical operators
+11 conditionals part 3
+12 rps
+* python 06 loops
+13 loops part 1 
+14 loops problem set
+15 loops part 2
+16 dice roller
+17 toothpick
+* python 07 functions
+18 functions part 1
+* python 08 scope
+19 scope code
+* python 09 lists
+20 lists code
+21 grand prix
+22 lists part 2
+23 todos
+* python 10 dictionaries
