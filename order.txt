@@ -36,3 +36,14 @@ intro to python
 22 lists part 2
 23 todos
 * python 10 dictionaries
+24 dictionaries code
+25 dictionary peak
+* python 11 tuples and sets
+* python 12 functions part 2
+26 function part 2
+27 args problem set
+* python 13 errors
+* python 14 modules
+28 modules code
+* python 15 oop
+29 oop code
